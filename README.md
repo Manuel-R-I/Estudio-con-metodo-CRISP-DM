@@ -20,7 +20,7 @@ El notebook cubre las 6 fases del proyecto:
 ## Dataset
 
 - **Fuente:** Observaciones meteorológicas diarias de Australia — Commonwealth Bureau of Meteorology.
-- **Archivo:** `weatherAUS.csv` (no incluido en el repositorio, ver sección "Cómo ejecutar").
+- **Archivo:** `weatherAUS.csv`.
 
 ## Librerías utilizadas
 
@@ -49,13 +49,8 @@ El notebook cubre las 6 fases del proyecto:
 
 ## Cómo ejecutar
 
-1. Clonar el repositorio.
-2. Instalar las dependencias:
-   ```bash
-   pip install pandas numpy matplotlib seaborn scikit-learn
-   ```
-3. Descargar el dataset `weatherAUS.csv` y ubicarlo en la raíz del proyecto.
-4. Abrir el notebook `BIY7121_EV3_Acuña_Rivas_con_Dashboard.ipynb` y ejecutar las celdas en orden.
+1. Descargar archivos ipynb y csv.
+2. Abrir el notebook `BIY7121_EV3_Acuña_Rivas_con_Dashboard.ipynb` y ejecutar las celdas en orden.
 
 ## Autores
 
